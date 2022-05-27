@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660956925656",
+    "firebase_url": "https://iotled-cf16d-default-rtdb.firebaseio.com",
+    "project_id": "iotled-cf16d",
+    "storage_bucket": "iotled-cf16d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660956925656:android:cdc0cfe6ebf523747891ad",
+        "android_client_info": {
+          "package_name": "com.example.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660956925656-h9njrqnh5216tcka6sf4m5287teiftil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iot",
+            "certificate_hash": "a40bc147892c96adfeca35cd78f1ca6be941b0e6"
+          }
+        },
+        {
+          "client_id": "660956925656-uegr7rf2q47lged4jamo8saomc6od4if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyK4FfhiQh22fQxYRYbN5QImhCpCdIMxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660956925656-uegr7rf2q47lged4jamo8saomc6od4if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
