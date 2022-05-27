@@ -5,7 +5,7 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_toggle_off.xml" value="0.1325" />
         <entry key="app/src/main/res/drawable/ic_toggle_on.xml" value="0.1325" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
